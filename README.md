@@ -203,13 +203,13 @@ Battery Backup Time = 46.6 Wh / 32 Wh/day
 - Develop a web dashboard in addition to the Blynk mobile application.
 
 # 8. Contact
-👤 Huynh Thanh Phuong
+👤 Nguyen Quang Minh
 
-📧 phuong0342098446@gmail.com
+📧 minh.nguyenquangvnu@gmail.com
 
-💻 https://github.com/phuonght098
+💻 https://github.com/MinhNguyen-Dev22
 
-🔗 LinkedIn: https://www.linkedin.com/in/phuonght098/
+🔗 LinkedIn:  https://www.linkedin.com/in/minhvnu/
 
 If you find this project useful, please consider giving it a ⭐ on GitHub.
 
