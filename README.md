@@ -169,7 +169,8 @@ Battery Backup Time = 46.6 Wh / 32 Wh/day
 
 ## Blynk Configuration
 ### Configure Blynk
-<img width="672" height="1536" alt="image" src="https://github.com/user-attachments/assets/6e3d54f8-6f1f-4d01-a054-639a043dae87" />
+
+<img width="397" height="746" alt="image" src="https://github.com/user-attachments/assets/90eefca8-99c2-4407-bfd1-561b5b15d1ff" />
 
 1. Create a Template on Blynk IoT.
 
