@@ -1,7 +1,7 @@
 #define BLYNK_PRINT Serial
 
 #define BLYNK_TEMPLATE_ID "TMPL6-j88RT8W"
-#define BLYNK_TEMPLATE_NAME "doan11"
+#define BLYNK_TEMPLATE_NAME "QuangMinh"
 #define BLYNK_AUTH_TOKEN "AIOqh_uXxUlY3bVBJzoL93QI4eKKDkjW"
 
 #include <Arduino.h>
